@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**DanyaBooba/DanyaBooba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😎 I’m learning JavaScript (Gulp, ReactJS)
+- 🥰 Work on PHP, JavaScript, Python, C#
+- 🤯 Work in Unity (Gamedev), Figma (Design), VSCode (Code)
 
-Here are some ideas to get you started:
+# Some about me 🤒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎉 4 years write code
+- 😀 Many 5 languages was uses
+
+# Sites
+
+- 👉 My site dybka.ru
+- 🎮 Site of my gamedev creagoo.ru
+- ✏️ Site of my company yl:d ylid.creagoo.ru
