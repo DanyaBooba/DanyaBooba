@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😎 I’m learning JavaScript (Gulp, ReactJS)
-- 🥰 Work on PHP, JavaScript, Python, C#
+- 🥰 Work on PHP, JavaScript, Python, C#, Java
 - 🤯 Work in Unity (Gamedev), Figma (Design), VSCode (Code)
 
 # Some about me 🤒
