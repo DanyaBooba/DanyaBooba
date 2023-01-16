@@ -13,4 +13,4 @@
 
 - 👉 My site dybka.ru
 - 🎮 Site of my gamedev creagoo.ru
-- ✏️ Site of my company yl:d ylid.creagoo.ru
+- ✏️ Site of my it company it.dybka.ru
