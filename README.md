@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello everyone
+My name is Dybka Daniel, and I am an IT industry developer
 
-- 😎 I’m learning JavaScript (Gulp, ReactJS)
-- 🥰 Work on PHP, JavaScript, Python, C#, Java
-- 🤯 Work in Unity (Gamedev), Figma (Design), VSCode (Code)
+I use programming languages:
+- JavaScript (Gulp, ReactJS)
+- PHP (Backend server)
+- Python (Fast startup, AI)
+- C# (Gamedev)
+- Java (Android apps)
+- Swift (iOS apps)
 
-# Some about me 🤒
+# Products in development
 
-- 🎉 4 years write code
-- 😀 Many 5 languages was uses
+- dybka.ru (My site)
+- creagoo.ru (My games)
+- it.dybka.ru (I'm in IT)
+- news.dybka.ru (News channel) 
+- id.creagoo.ru (Personal account)
 
-# Sites
+# Contact me
 
-- 👉 My site dybka.ru
-- 🎮 Site of my gamedev creagoo.ru
-- ✏️ Site of my it company it.dybka.ru
+- daniil@dybka.ru
+- @ddybka (Telegram, VK)
