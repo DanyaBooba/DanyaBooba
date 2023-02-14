@@ -1,5 +1,5 @@
 ### Hello everyone
-My name is Dybka Daniel, and I am an IT industry developer
+My name is Dybka Daniil, and I am an IT industry developer
 
 I use programming languages:
 - JavaScript (Gulp, ReactJS)
