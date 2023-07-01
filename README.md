@@ -1,7 +1,5 @@
 # Hello everyone
 
----
-
 My name is Dybka Daniil, and I am an IT industry developer
 
 I use programming languages:
