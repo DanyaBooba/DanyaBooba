@@ -1,7 +1,11 @@
-### Hello everyone
+# Hello everyone
+
+---
+
 My name is Dybka Daniil, and I am an IT industry developer
 
 I use programming languages:
+
 - JavaScript (Gulp, ReactJS)
 - PHP (Backend server)
 - Python (Fast startup, AI)
@@ -9,15 +13,16 @@ I use programming languages:
 - Java (Android apps)
 - Swift (iOS apps)
 
-# Products in development
+## Products in development
 
-- dybka.ru (My site)
-- creagoo.ru (My games)
-- it.dybka.ru (I'm in IT)
-- news.dybka.ru (News channel) 
-- id.creagoo.ru (Personal account)
+- dev.dybka.ru
+- news.dybka.ru
+- media.dybka.ru
+- id.creagoo.ru
+- dybka.ru
 
-# Contact me
+### Contact me
 
 - daniil@dybka.ru
-- @ddybka (Telegram, VK)
+- https://ddybka.t.me
+- https://vk.com/ddybka
