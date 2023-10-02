@@ -15,7 +15,6 @@ I use programming languages:
 
 - dev.dybka.ru
 - news.dybka.ru
-- media.dybka.ru
 - creagoo.ru
 - id.creagoo.ru
 - dybka.ru
