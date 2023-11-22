@@ -6,8 +6,8 @@ I use programming languages:
 
 - JavaScript (Gulp, ReactJS)
 - PHP (Backend server)
-- Python (Fast startup, AI)
-- C# (Gamedev)
+- Python (Fast startup, AI, TG bot, server)
+- C#/C (Gamedev)
 - Java (Android apps)
 - Swift (iOS apps)
 
@@ -16,7 +16,6 @@ I use programming languages:
 - dev.dybka.ru
 - news.dybka.ru
 - creagoo.ru
-- id.creagoo.ru
 - dybka.ru
 
 ### Contact me
