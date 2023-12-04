@@ -12,14 +12,14 @@ By the age of 17, I became interested in developing in JavaScript and PHP. I beg
 
 ## Web projects
 
-| Links | GitHub |
-------------------
+|               Links                        |                    GitHub                  |
+| ------------------------------------------ | ------------------------------------------ |
 | [aquarium.org.ru](https://aquarium.org.ru) | [aquarium.org.ru](https://aquarium.org.ru) |
-| [dev.dybka.ru](https://dev.dybka.ru) | [dev.dybka.ru](https://dev.dybka.ru) |
-| [news.dybka.ru](https://news.dybka.ru) | [news.dybka.ru](https://news.dybka.ru) |
-| [creagoo.ru](https://creagoo.ru) | [creagoo.ru](https://creagoo.ru) |
-| [dybka.ru](https://dybka.ru) | [dybka.ru](https://dybka.ru) |
-| [vr.creagoo.ru](https://vr.creagoo.ru) | _none_ |
+| [dev.dybka.ru](https://dev.dybka.ru)       | [dev.dybka.ru](https://dev.dybka.ru)       |
+| [news.dybka.ru](https://news.dybka.ru)     | [news.dybka.ru](https://news.dybka.ru)     |
+| [creagoo.ru](https://creagoo.ru)           | [creagoo.ru](https://creagoo.ru)           |
+| [dybka.ru](https://dybka.ru)               | [dybka.ru](https://dybka.ru)               |
+| [vr.creagoo.ru](https://vr.creagoo.ru)     | _none_                                     |
 
 ## Current situation
 
