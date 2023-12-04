@@ -12,14 +12,14 @@ By the age of 17, I became interested in developing in JavaScript and PHP. I beg
 
 ## Web projects
 
-|               Links                        |                    GitHub                  |
-| ------------------------------------------ | ------------------------------------------ |
-| [aquarium.org.ru](https://aquarium.org.ru) | [aquarium.org.ru](https://aquarium.org.ru) |
-| [dev.dybka.ru](https://dev.dybka.ru)       | [dev.dybka.ru](https://dev.dybka.ru)       |
-| [news.dybka.ru](https://news.dybka.ru)     | [news.dybka.ru](https://news.dybka.ru)     |
-| [creagoo.ru](https://creagoo.ru)           | [creagoo.ru](https://creagoo.ru)           |
-| [dybka.ru](https://dybka.ru)               | [dybka.ru](https://dybka.ru)               |
-| [vr.creagoo.ru](https://vr.creagoo.ru)     | _none_                                     |
+|               Links                        |                    GitHub                                    |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| [aquarium.org.ru](https://aquarium.org.ru) | [aquarium-2024](https://github.com/DanyaBooba/aquarium-2024) |
+| [dev.dybka.ru](https://dev.dybka.ru)       | [dev-dybka](https://github.com/DanyaBooba/dev-dybka)         | 
+| [news.dybka.ru](https://news.dybka.ru)     | [special-2024](https://github.com/DanyaBooba/special-2024)   |
+| [creagoo.ru](https://creagoo.ru)           | [creagoo-2023](https://github.com/DanyaBooba/creagoo-2023)   |
+| [dybka.ru](https://dybka.ru)               | [dybka](https://github.com/DanyaBooba/dybka)                 |
+| [vr.creagoo.ru](https://vr.creagoo.ru)     | _private_                                                    |
 
 ## Current situation
 
