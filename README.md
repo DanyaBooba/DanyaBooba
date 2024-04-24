@@ -2,8 +2,6 @@
 
 Hello everyone! 👋🏻
 
-## Same words about me
-
 My name is Daniil Dybka, and I am an IT industry developer.
 
 From an early age I started developing projects. I developed my first game at age 13, a year later I made a website, and started using cloud storage for my games.
