@@ -1,14 +1,24 @@
-# Daniil Dybka
+# Здравствуйте 👋🏻
 
-Hello everyone! 👋🏻
+Меня зовут Даниил Дыбка, я разработчик в IT-индустрии.
 
-My name is Daniil Dybka, and I am an IT industry developer.
+01. В 13 лет я разработал мобильную игру на Unity, выступал с проектом на конференциях и был внесен в реестр "Таланты России".
 
-From an early age I started developing projects. I developed my first game at age 13, a year later I made a website, and started using cloud storage for my games.
+02. В 15 лет начал создавать веб-проекты и прошел стажировку в Иннополисе.
 
-By the age of 17, I became interested in developing in JavaScript and PHP. I began to actively create web projects. I have already managed to release my projects into production:
+03. В 17 лет поступил на первый курс ПСТГУ на программиста, тезисы моих работ были дважды добавлены в РИНЦ.
 
-## Web projects
+## Текущий проект — Аквариум
+
+Социальная сеть Аквариум — это место, где вы можете создать свой мир, отражающий вашу личность, интересы и уникальность.
+
+Телеграм проекта: [@aquariumsocial](https://aquariumsocial.t.me)
+
+Сайт: [aquarium.org.ru](https://aquarium.org.ru)
+
+GitHub: [aquarium-2024](https://github.com/DanyaBooba/aquarium-2024)
+
+## Веб-проекты
 
 |               Links                        |                    GitHub                                    |
 | ------------------------------------------ | ------------------------------------------------------------ |
@@ -19,15 +29,26 @@ By the age of 17, I became interested in developing in JavaScript and PHP. I beg
 | [dybka.ru](https://dybka.ru)               | [dybka](https://github.com/DanyaBooba/dybka)                 |
 | [vr.creagoo.ru](https://vr.creagoo.ru)     | _private_                                                    |
 
-## Current situation
+## В чем развиваюсь
 
-And at this moment I support web development and mobile application development.
+На данный момент, изучаю фреймворк Laravel, систему Eloquent и её возможности. 
 
-You can follow all my progress on my website: [dybka.ru](https://dybka.ru)
+Разрабатываю мобильные приложения на React Native.
 
-Or on my media community: [news.dybka.ru](https://news.dybka.ru)
+RestAPI, OAuth, MySQL и разное :)
 
-### Contact me
+## Как вижу своё будущее
 
-- daniil@dybka.ru
-- [@ddybka](https://ddybka.t.me)
+В качестве серверного backend программиста, разработчика мобильных приложений.
+
+Преподавать разработку игр, основы программирования на C/C++, язык программирования Python, ООП на Java.
+
+Помогать в разработке простых приложений, GUI-интерфейсов, Телеграм-ботов на Python/PHP, архитектуре приложения.
+
+Для души разрабатывать казуальные игры для Яндекса.
+
+## Контакты
+
+E-mail: daniil@dybka.ru
+Телеграм: [@ddybka](https://ddybka.t.me)
+ВКонтакте: [@ddybka](https://vk.com/ddybka)
