@@ -14,9 +14,9 @@
 
 Телеграм проекта: [@aquariumsocial](https://aquariumsocial.t.me)
 
-Сайт: [aquarium.org.ru](https://aquarium.org.ru)
+Сайт: [aquariumsocial.ru](https://aquariumsocial.ru)
 
-GitHub: [aquarium-2024](https://github.com/DanyaBooba/aquarium-2024)
+GitHub: [aquarium](https://github.com/DanyaBooba/aquarium)
 
 ## Веб-проекты
 
