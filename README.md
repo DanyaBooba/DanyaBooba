@@ -12,6 +12,8 @@
 
 4. В 18 лет продолжаю развитие своего проекта «Аквариум», тезисы моих работ 3 раза были опубликованы в РИНЦ.
 
+---
+
 ## Навыки
 
 ### Чем нравится заниматься
@@ -39,7 +41,15 @@
 
 ---
 
+## Статистика
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=danyabooba)](https://github.com/danyabooba/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danyabooba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyabooba)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## 🐠 Текущий проект — Аквариум
 
@@ -86,15 +96,6 @@ GitHub: [aquarium](https://github.com/DanyaBooba/aquarium)
 - [dybka.ru](https://dybka.ru)
 - [devices.dybka.ru](https://devices.dybka.ru)
 - [vr.creagoo.ru](https://vr.creagoo.ru)
-
-|               Links                        |                    GitHub                                    |
-| ------------------------------------------ | ------------------------------------------------------------ |
-| [aquarium.org.ru](https://aquarium.org.ru) | [aquarium-2024](https://github.com/DanyaBooba/aquarium-2024) |
-| [dev.dybka.ru](https://dev.dybka.ru)       | [dev-dybka](https://github.com/DanyaBooba/dev-dybka)         | 
-| [news.dybka.ru](https://news.dybka.ru)     | [special-2024](https://github.com/DanyaBooba/special-2024)   |
-| [creagoo.ru](https://creagoo.ru)           | [creagoo-2023](https://github.com/DanyaBooba/creagoo-2023)   |
-| [dybka.ru](https://dybka.ru)               | [dybka](https://github.com/DanyaBooba/dybka)                 |
-| [vr.creagoo.ru](https://vr.creagoo.ru)     | -                                                            |
 
 ## 👾 Мобильные проекты
 
