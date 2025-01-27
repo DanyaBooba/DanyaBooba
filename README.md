@@ -104,16 +104,16 @@ GitHub: [aquarium](https://github.com/DanyaBooba/aquarium)
 За 4 года разработки мобильных игр я успел создать следующие проекты:
 
 - [2048](https://creagoo.ru/games/2048)
-- [Русские Карты 2]([link](https://creagoo.ru/games/russiancards2)
-- [Запомни эти карты]([link](https://creagoo.ru/games/rememberthesecards)
-- [Babka On The Hunt: Классика]([link](https://creagoo.ru/games/babkaonthehuntclassic)
-- [Babka On The Hunt Light]([link](https://creagoo.ru/games/babkaonthehuntlight)
-- [Babka On The Hunt]([link](https://creagoo.ru/games/babkaonthehunt)
-- [Sweetness]([link](https://creagoo.ru/games/sweetness)
-- [Guess]([link](https://creagoo.ru/games/guess)
-- [Button pusher]([link](https://creagoo.ru/games/buttonpusher)
-- [Крестики нолики]([link](https://creagoo.ru/games/tictactoe)
-- [Камень ножницы бумага]([link](https://creagoo.ru/games/rockpaperscissors)
+- [Русские Карты 2](https://creagoo.ru/games/russiancards2)
+- [Запомни эти карты](https://creagoo.ru/games/rememberthesecards)
+- [Babka On The Hunt: Классика](https://creagoo.ru/games/babkaonthehuntclassic)
+- [Babka On The Hunt Light](https://creagoo.ru/games/babkaonthehuntlight)
+- [Babka On The Hunt](https://creagoo.ru/games/babkaonthehunt)
+- [Sweetness](https://creagoo.ru/games/sweetness)
+- [Guess](https://creagoo.ru/games/guess)
+- [Button pusher](https://creagoo.ru/games/buttonpusher)
+- [Крестики нолики](https://creagoo.ru/games/tictactoe)
+- [Камень ножницы бумага](https://creagoo.ru/games/rockpaperscissors)
 
 
 ## В чем сейчас развиваюсь
