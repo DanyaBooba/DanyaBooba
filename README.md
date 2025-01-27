@@ -10,7 +10,7 @@
 
 3. В 17 лет поступил в ПСТГУ, продолжил развивать свои навыки в IT-индустрии и разрабатывать свои проекты. Начал разрабатывать свою социальную сеть «Аквариум».
 
-4. В 18 лет продолжаю развитие своего проекта «Аквариум», тезисы моих работ 3 раза были опубликованы в РИНЦ.
+4. В 18 лет продолжаю развитие своего проекта «Аквариум», начал преподавать программирование, тезисы моих работ 3 раза были опубликованы в РИНЦ.
 
 ---
 
@@ -18,16 +18,16 @@
 
 ### Чем нравится заниматься
 
-- frontend / backend: просто обожаю создавать сайты на разных технологиях, добавлять актуальный CSS и HTML;
-- мобильные игры: это нелегко, но результат получается бомбическим;
+- frontend / backend: просто обожаю создавать сайты на разных технологиях;
+- мобильные игры: это нелегко, но результат получается бомбическим.
 
-### Языки программирования / разметки
+### Языки программирования (разметки)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -89,7 +89,7 @@ GitHub: [aquarium](https://github.com/DanyaBooba/aquarium)
 
 ## 🤩 Мои прочие веб-разработки
 
-- [aquarium.org.ru](https://aquarium.org.ru)
+- [aquariumsocial.ru](https://aquariumsocial.ru)
 - [dev.dybka.ru](https://dev.dybka.ru)
 - [news.dybka.ru](https://news.dybka.ru)
 - [creagoo.ru](https://creagoo.ru)
@@ -101,18 +101,35 @@ GitHub: [aquarium](https://github.com/DanyaBooba/aquarium)
 
 Все мои мобильные игры отражены на сайте [creagoo.ru](https://creagoo.ru). Я разрабатывал свои игры под именем «Creagoo» и на данный момент приостановил разработку в связи занятостью другими проектами. Мобильные игры я разрабатывал в период с 2019 по 2023 год. 
 
+За 4 года разработки мобильных игр я успел создать следующие проекты:
+
+- [2048](https://creagoo.ru/games/2048)
+- [Русские Карты 2]([link](https://creagoo.ru/games/russiancards2)
+- [Запомни эти карты]([link](https://creagoo.ru/games/rememberthesecards)
+- [Babka On The Hunt: Классика]([link](https://creagoo.ru/games/babkaonthehuntclassic)
+- [Babka On The Hunt Light]([link](https://creagoo.ru/games/babkaonthehuntlight)
+- [Babka On The Hunt]([link](https://creagoo.ru/games/babkaonthehunt)
+- [Sweetness]([link](https://creagoo.ru/games/sweetness)
+- [Guess]([link](https://creagoo.ru/games/guess)
+- [Button pusher]([link](https://creagoo.ru/games/buttonpusher)
+- [Крестики нолики]([link](https://creagoo.ru/games/tictactoe)
+- [Камень ножницы бумага]([link](https://creagoo.ru/games/rockpaperscissors)
+
+
 ## В чем сейчас развиваюсь
 
 На данный момент работаю с такими системами как:
 
+- сборщик пакетов Gulp;
+- генератор статики Eleventy;
 - фреймворк Laravel языка программирования PHP;
-- фреймворк React языка программирования JavaScript.
+- фреймворк React языка программирования JavaScript и TypeScript.
 
 ## В чем хочу развиваться
 
-Хочу разрабатывать мобильные приложения на фреймворке React Native языка программирования JavaScript (TypeScript) и выпускать их в Google Play и сторонние магазины. Есть интерес разрабатывать мобильные приложения, которые возможно связать с сервером для хранения и обработки данных.
+Хочу разрабатывать мобильные приложения на фреймворке React Native языка программирования JavaScript. Также мобильные приложения на Dart и фреймворке Flutter.
 
 ## Контакты
 
 - daniil@dybka.ru
-- телеграм: [@ddybka](https://ddybka.t.me)
+- Телеграм: [@ddybka](https://ddybka.t.me)
